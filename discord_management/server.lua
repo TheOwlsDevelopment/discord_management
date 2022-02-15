@@ -1,7 +1,6 @@
 
 
 local DISCORD_NAME = "[MY SERVER NAME]"                                -- Insert your discord server name, example: [MY SERVER]
-local STEAM_KEY = " "                                                  -- Insert your steam key, example: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 local DISCORD_IMAGE = " "                                              -- Insert your discord logo image, example: https://i.imgur.com/xxxxxx.png
 
 
